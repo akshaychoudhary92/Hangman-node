@@ -1,0 +1,24 @@
+{
+  "name": "Hangman",
+  "version": "1.0.0",
+  "description": "creating a hangman game using node js",
+  "main": "main.js",
+  "dependencies": {
+    "inquirer": "^1.2.1",
+    "is-letter": "^1.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "",
+    "url": ""
+  },
+  "author": "",
+  "license": "",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": ""
+}
